@@ -1,0 +1,5 @@
+com\fincontrol\service\ExpenseService.class
+com\fincontrol\controller\ExpenseController.class
+com\fincontrol\BackendApplication.class
+com\fincontrol\model\Expense.class
+com\fincontrol\repository\ExpenseRepository.class
